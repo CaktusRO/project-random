@@ -788,7 +788,7 @@ if (winNumber+failNumber == 14) {
     Wins.innerText = winNumber;
     Fails.innerText = failNumber;
     if (winNumber > failNumber) {
-        ResultTitle.innerText = "Congratulations!"
+        ResultTitle.innerText = "La mulți ani! Cod pe Rockstar Games:5XZ3-Z6Z3-MEBV-2ULA , Cod pe Minecraft:G4TRX-KF99H-R323P-7DJ92-P2VGZ"
     } else {
         ResultTitle.innerText = "Try again!"
     }
